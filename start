@@ -1,0 +1,5 @@
+npm install
+
+npm run server
+
+echo "server is running, you are ready to go!!"
